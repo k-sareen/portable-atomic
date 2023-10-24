@@ -1,6 +1,8 @@
 target
 Cargo.lock
 tmp
+target.tmp
+cargo.out
 
 # For platform and editor specific settings, it is recommended to add to
 # a global .gitignore file.
